@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\adaml\source\repos\robotunicorn\robotunicorn180280\main.cpp(975): warning C4715: 'OverlappingGroupMember': not all control paths return a value
+  szablon2vs17.vcxproj -> C:\Users\adaml\source\repos\RobotUnicorn\RobotUnicorn180280\Debug\szablon2vs17.exe
